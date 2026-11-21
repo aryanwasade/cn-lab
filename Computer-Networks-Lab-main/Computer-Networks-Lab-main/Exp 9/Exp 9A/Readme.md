@@ -7,8 +7,8 @@ The **Leaky Bucket algorithm** is used to control the rate at which traffic is i
 
 ## TERMINAL SESSION
 ```
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim leaky_bucket_1221.c
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc leaky_bucket_1221.c -o leaky_bucket
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim leaky_bucket_1220.c
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc leaky_bucket_1220.c -o leaky_bucket
 sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ ./leaky_bucket
 Enter bucket size: 10
 Enter output rate (leak rate): 3

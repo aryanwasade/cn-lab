@@ -4,8 +4,8 @@ Socket Programming for Transport Layer Packet (UDP Server)
 
 ## Terminal Session
 ```
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim udp_server_1221.c
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc udp_server_1221.c -o udp_server
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim udp_server_1220.c
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc udp_server_1220.c -o udp_server
 sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ ./udp_server
 UDP Echo Server listening on port 10290...
 Received from client: Hello UDP Server

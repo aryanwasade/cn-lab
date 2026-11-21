@@ -7,8 +7,8 @@ The **Token Bucket algorithm** is another traffic shaping and congestion managem
 
 ## TERMINAL SESSION
 ```
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim token_bucket_1221.c
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc token_bucket_1221.c -o token_bucket
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim token_bucket_1220.c
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc token_bucket_1220.c -o token_bucket
 sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ ./token_bucket
 Enter maximum capacity of token bucket: 10
 Enter initial tokens in bucket: 5

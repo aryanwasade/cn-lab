@@ -9,8 +9,8 @@ If an acknowledgment for a frame is not received or a frame is corrupted/lost, t
 
 ## Terminal Session
 ```
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim sliding_window_1221.c
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc sliding_window_1221.c -o sliding_window
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim sliding_window_1220.c
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc sliding_window_1220.c -o sliding_window
 sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ ./sliding_window
 Sliding Window Protocol Simulation (Go-Back-N)
 Enter number of frames to send (max 50): 6

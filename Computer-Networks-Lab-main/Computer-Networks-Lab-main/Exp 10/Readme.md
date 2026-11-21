@@ -10,8 +10,8 @@ $$D_x(y) = \min_v \{ c(x,v) + D_v(y) \}$$
 
 ## TERMINAL SESSION
 ```
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim distance_vector_1221.c
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc distance_vector_1221.c -o distance_vector
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim distance_vector_1220.c
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc distance_vector_1220.c -o distance_vector
 sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ ./distance_vector
 Enter the number of routers: 3
 Enter the cost matrix (use 999 for infinity/no direct link):

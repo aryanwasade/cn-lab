@@ -5,8 +5,8 @@ Socket Programming for Transport Layer Protocol (UDP Client)
 
 ## Terminal Session
 ```
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim udp_client_1221.c
-sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc udp_client_1221.c -o udp_client
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ vim udp_client_1220.c
+sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ gcc udp_client_1220.c -o udp_client
 sit@sit-HP-ProOne-440-23-8-inch-G9-All-in-One-Desktop-PC:~$ ./udp_client 127.0.0.1
 Enter message to send: Hello UDP Server
 Echo from server: Hello UDP Server
