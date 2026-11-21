@@ -27,6 +27,6 @@ Repository containing C programs, packet analysis documentation, and lab records
 ### 1. Compiling & Running C Programs
 Navigate to any specific experiment folder containing a `.c` file and run:
 ```bash
-gcc filename_1221.c -o program_output
+gcc filename_1220.c -o program_output
 ./program_output
 ```
